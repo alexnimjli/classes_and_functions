@@ -20,7 +20,7 @@ import numpy as np
 import sys
 sys.path
 
-sys.path.insert(0, '../models')
+sys.path.insert(0, '../classes_functions')
 
 from data_processing_class import DataProcessing
 
